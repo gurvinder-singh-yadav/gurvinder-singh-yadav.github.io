@@ -6,8 +6,10 @@ author : "Sam Robbins"
 authorImage : "images/profile.jpg"
 ---
 
-Hi! I'm Sam, a second year Computer Science student from Durham University. 
-I like doing personal projects, which you will find in the portfolio page of this website. 
-My specialties can be found on the homepage, of which most are web development or cyber security.
 
-I am currently available for part time remote work, but will be looking for full time employment from summer 2021.
+Hi! I am Gurvinder Singh Yadav a final year student here as Indian Institute of Information with Major in Data Science and Arificial Intelligence. My past projects have been mentioned in [portfolio page](/portfolio).
+
+I have a intermediate level knowledge as well as hands on in NLP. 
+I like to make new stuff with novel approaches and while doing so even analysing the breaking points of my system to now where it is applicable and where it is not.
+
+Right now I am looking for ML Engineer/Data Scientist position. My previvious experiences are mentioned [here](/#experience)

@@ -20,6 +20,15 @@ skill:
   item:
     - title: Python
       logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898059/portfolio/portfolio/python_jgwv6c.svg
+      description: 
+    - title: Numpy
+      logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898057/portfolio/portfolio/numpy_umljtc.svg
+    - title: Linux
+      logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898055/portfolio/portfolio/linux_zrnkah.svg
+    - title: Git
+      logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898052/portfolio/portfolio/git_apgzdr.svg
+    - title: latex
+      logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688897996/portfolio/portfolio/latex_nwdq0l.svg
 experience:
   enable: true
   item:
@@ -27,6 +36,10 @@ experience:
       title: ML Research Intern
       company: Under Dr. B. Bahadur
       duration: Jan 2021 - Dec 2021
+    - logo: 
+      title: ML Intern
+      company: Drift Labs
+      duration: Aug 2022 - Sept 2022
     - logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688899420/portfolio/portfolio/ikslogo_pxi9yl.png
       title: ML Research Intern
       company: Indian Knowledge Systems

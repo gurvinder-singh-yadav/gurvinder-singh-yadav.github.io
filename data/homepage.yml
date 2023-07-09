@@ -1,0 +1,86 @@
+---
+banner:
+  title: Hi! I’m Gurvinder 
+social:
+  twitter: ""
+  linkedin: gurvinder-yadav-450939188
+  github: gurvinder-singh-yadav
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: 20bds025@iiitdwd.ac.in
+about:
+  enable: true
+  content: Final year undergrad at IIIT Dharwad with major in Data Science & Artificial Intelligence
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: Python
+      logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898059/portfolio/portfolio/python_jgwv6c.svg
+experience:
+  enable: true
+  item:
+    - logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898353/portfolio/portfolio/logon_hpze1e.png
+      title: ML Research Intern
+      company: Under Dr. B. Bahadur
+      duration: Jan 2021 - Dec 2021
+    - logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688899420/portfolio/portfolio/ikslogo_pxi9yl.png
+      title: ML Research Intern
+      company: Indian Knowledge Systems
+      duration: Oct 2022 - Dec 2022
+hackathons:
+  enable: false
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none
+certifications:
+  enable: true
+  item:
+    - title: Google Cloud Skill Badge
+      image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898678/portfolio/portfolio/Z5mHEcZSfjDvSjtBRmzjgY1O5B9uT_2BJME8KqR_2FgmmyI_3D_qbpl9v.png
+      url: https://www.cloudskillsboost.google/public_profiles/71b1c66c-3854-483e-926b-338e9ed01bc1/badges/3105834
+    - title: Google Cloud Skill Badge
+      image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898901/portfolio/portfolio/SOUHCWvev6HmfC5QztXJd_2BCkSK8_2B3WGWg_2BF_2Fww_2FfqXA_3D_y0yizj.png
+      url: https://www.cloudskillsboost.google/public_profiles/71b1c66c-3854-483e-926b-338e9ed01bc1/badges/3104783
+    - title: Google Cloud Skill Badge
+      image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898966/portfolio/portfolio/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F_2FgjwN6yKY98_3D_zbgayj.png
+      url: https://www.cloudskillsboost.google/public_profiles/71b1c66c-3854-483e-926b-338e9ed01bc1/badges/3104519
+    - title: Google Cloud Completion Badge
+      image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688899075/portfolio/portfolio/xXzXYL2lXH_2Bvuqor5MttlsfDiL_2FOkSOlJgqR54ZsEl8_3D_b0hibx.png
+      url: https://www.cloudskillsboost.google/public_profiles/71b1c66c-3854-483e-926b-338e9ed01bc1/badges/3104246
+    - title: Google Cloud Completion Badge
+      image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688899123/portfolio/portfolio/z9Zn7eWgXV54bQM1dD3Sn2tZqpiAOn8r_2FSm2PsYhmEo_3D_lrcg66.png
+      url: https://www.cloudskillsboost.google/public_profiles/71b1c66c-3854-483e-926b-338e9ed01bc1/badges/3102463
+    - title: Google Cloud Completion Badge
+      image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688899173/portfolio/portfolio/TsNiXMGKgjpXGEJ2unqGKfsoTNCYCaLAwQprJKcDT90_3D_uwiz5c.png
+      url: https://www.cloudskillsboost.google/public_profiles/71b1c66c-3854-483e-926b-338e9ed01bc1/badges/3102163
+    - title: Google Cloud Completion Badge
+      image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688899197/portfolio/portfolio/s0fF_2BkELMzFIzf8aZSoil8kgNrd_2FwGpSGZiY6wIbP1k_3D_tk5swp.png
+      url: https://www.cloudskillsboost.google/public_profiles/71b1c66c-3854-483e-926b-338e9ed01bc1/badges/3101631
+
+
+
+
+education:
+  enable: true
+  item:
+    - title: BTech Data Science & Artificial Intelligence
+      year: 2020 - 2024 (Ongoing)
+      academy: Indian Institute of Information Technology Dharwad
+      image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898353/portfolio/portfolio/logon_hpze1e.png
+leadership:
+  enable: true
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
+      title: Young Leader
+      company: The Scout Association
+      duration: September 2014 - July 2018
+portfolio:
+  filter:
+    - label: Web Dev
+      value: web-dev

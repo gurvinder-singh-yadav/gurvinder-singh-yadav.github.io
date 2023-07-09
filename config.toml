@@ -1,10 +1,9 @@
 # Base information
-baseURL = "https://gurvinder-singh-yadav.github.io"
+baseURL = "https://gurvinder-singh-yadav.github.io/"
 languageCode = "en-gb"
 title = "Gurvinder Singh Yadav"
 googleAnalytics = ""
 theme = "hugo-developer-portfolio"
-staticDir = "/static/"
 
 
 # 

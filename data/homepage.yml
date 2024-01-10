@@ -3,17 +3,19 @@ banner:
   title: Hi! I’m Gurvinder 
 social:
   twitter: ""
-  linkedin: gurvinder-yadav-450939188
+  linkedin: gurvinder-singh-yadav-450939188
   github: gurvinder-singh-yadav
+  leetcode: 20bds025
+  kaggle: gurvinderyadav
   gitlab: ""
   facebook: ""
   instagram: ""
-  gmail: 20bds025@iiitdwd.ac.in
+  gmail: ""
 about:
   enable: true
-  content: Final year undergrad at IIIT Dharwad with major in Data Science & Artificial Intelligence
+  # content: Know more about me
   button:
-    btnText: Find out more
+    btnText: Wanna know more about me ?
     URL: "/about"
 skill:
   enable: true
@@ -21,6 +23,8 @@ skill:
     - title: Python
       logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898059/portfolio/portfolio/python_jgwv6c.svg
       description: 
+    - title: SQL
+      logo: https://res.cloudinary.com/dvc2smeyb/image/upload/v1704905686/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-computer-icons-others-text-rectangle-logo_jf3fo5.png
     - title: Numpy
       logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898057/portfolio/portfolio/numpy_umljtc.svg
     - title: Linux
@@ -32,25 +36,31 @@ skill:
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898353/portfolio/portfolio/logon_hpze1e.png
-      title: ML Research Intern
-      company: Under Dr. B. Bahadur
-      duration: Jan 2021 - Dec 2021
-    - logo: 
+    - logo: "https://res.cloudinary.com/dvc2smeyb/image/upload/v1704904303/E89HMj2UcAIc5KK_tedocu.jpg"
       title: ML Intern
       company: Drift Labs
-      duration: Aug 2022 - Sept 2022
+      duration: July 2023 - Dec 2023
     - logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688899420/portfolio/portfolio/ikslogo_pxi9yl.png
       title: ML Research Intern
       company: Indian Knowledge Systems
       duration: Oct 2022 - Dec 2022
-hackathons:
+    - logo: "https://res.cloudinary.com/dvc2smeyb/image/upload/v1704904512/1630642713948_tqr5cf.jpg"
+      title: DevOps Lead
+      company: Velocity @IIIT Dharwad
+      duration: June 2022 - June 2023
+    - logo: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898353/portfolio/portfolio/logon_hpze1e.png
+      title: ML Research Intern
+      company: Under Dr. B. Bahadur
+      duration: Jan 2021 - Dec 2021
+
+leadership:
   enable: false
   item:
-    - title: Hack Cambridge 2019
-      description: Climate change simulator
-      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
-      url: none
+    - logo: https://res.cloudinary.com/dvc2smeyb/image/upload/v1704904512/1630642713948_tqr5cf.jpg
+      title: DevOps Lead
+      company: Velocity @IIIT Dharwad
+      duration: June 2022 - June 2023
+
 certifications:
   enable: true
   item:
@@ -76,9 +86,6 @@ certifications:
       image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688899197/portfolio/portfolio/s0fF_2BkELMzFIzf8aZSoil8kgNrd_2FwGpSGZiY6wIbP1k_3D_tk5swp.png
       url: https://www.cloudskillsboost.google/public_profiles/71b1c66c-3854-483e-926b-338e9ed01bc1/badges/3101631
 
-
-
-
 education:
   enable: true
   item:
@@ -86,13 +93,7 @@ education:
       year: 2020 - 2024 (Ongoing)
       academy: Indian Institute of Information Technology Dharwad
       image: https://res.cloudinary.com/dfo3igr03/image/upload/v1688898353/portfolio/portfolio/logon_hpze1e.png
-leadership:
-  enable: true
-  item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
-      title: Young Leader
-      company: The Scout Association
-      duration: September 2014 - July 2018
+
 portfolio:
   filter:
     - label: Web Dev

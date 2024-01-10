@@ -3,7 +3,7 @@ title: "About"
 date: 2019-05-12T12:14:34+06:00
 description: "This is meta description."
 author : "Sam Robbins"
-authorImage : "images/profile.jpg"
+authorImage : "https://res.cloudinary.com/dvc2smeyb/image/upload/v1704903161/IMG_4965-min-compressed_wwwdbc.jpg"
 ---
 
 

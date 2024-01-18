@@ -37,6 +37,10 @@ skill:
 experience:
   enable: true
   item:
+    - logo: https://res.cloudinary.com/dvc2smeyb/image/upload/v1705600686/incture_ixqrgg.svg
+      title: Associate Software Engineer Trainee
+      company: Incture
+      duration: Jan 2024 - Present
     - logo: "https://res.cloudinary.com/dvc2smeyb/image/upload/v1704904303/E89HMj2UcAIc5KK_tedocu.jpg"
       title: ML Intern
       company: Drift Labs

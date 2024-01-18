@@ -13,4 +13,4 @@ I have a intermediate level knowledge as well as hands on in NLP.
 I like to make new stuff with novel approaches and while doing so even analysing the breaking points of my system to now where it is applicable and where it is not.
 
 Right now I am looking for ML Engineer/Data Scientist position. 
-Resume: [link](https://drive.google.com/file/d/1cDIpiFHuo0hnhRogW8RiPdS3K_o2DmJg/view?usp=drive_link)
+Resume: [link](/static/Resume.pdf)

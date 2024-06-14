@@ -13,4 +13,4 @@ I have a intermediate level knowledge as well as hands on in NLP.
 I like to make new stuff with novel approaches and while doing so even analysing the breaking points of my system to now where it is applicable and where it is not.
 
 Right now I am looking for ML Engineer/Data Scientist position. 
-Resume: [link](/static/Resume.pdf)
+Resume: [link](https://github.com/gurvinder-singh-yadav/gurvinder-singh-yadav.github.io/blob/main/static/Resume.pdf)
